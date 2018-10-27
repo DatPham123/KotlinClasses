@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Classes</string>
+    <string name="nobody">Nobody %1$s</string>
+    <string name="extra_btn">Extra</string>
+</resources>
