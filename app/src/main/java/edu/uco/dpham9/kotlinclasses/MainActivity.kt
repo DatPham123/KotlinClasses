@@ -14,6 +14,8 @@ import edu.uco.dpham9.kotlinclasses.model.Student
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
+
+val ten = "ASDAS"
 class MainActivity : Activity() {
 
     private val classRoll = ArrayList<Student>()
